@@ -24,10 +24,6 @@ kiwisolver==1.2.0
 
 matplotlib==3.3.0
 
-mkl-fft==1.1.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-
 nbformat==5.0.7
 notebook==6.0.3
 numpy==1.18.5
